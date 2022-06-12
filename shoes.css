@@ -22,14 +22,11 @@ body{
     font-size:50px;
     margin-left: 20px;
 }
-.fab:hover{
-    color:#FFC300;
 
-}
 
 @media (max-width:767px) {
     .container img{
-        width: 220px;
+        width: 130px;
         max-height: 100%;
        
     }
