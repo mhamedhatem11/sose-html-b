@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+   
+}
+
+.container{
+    background-color:blueviolet;
+}
+.container .con{
+    background-image: url(./images/polygon_colorful_shapes_pattern_4k_8k_hd_abstract-3840x2160.jpg);
+}
+.icon{
+    font-size: 40px;
+    margin-left: 20px;
+}
+.fab:hover{
+    color:#FFC300;
+
+}

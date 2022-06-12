@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.carte{
+    position: fixed;
+    
+}
+.icone .carte{
+    font-size:50px;
+    margin-left: 20px;
+}
+
+@media (max-width:767px) {
+    .container img{
+        width: 250px;
+        max-height: 100%;
+       
+        
+        
+    }
+}
+@media (min-width:768px) {
+    .container img {
+        max-width: 250px;
+        
+        
+        
+    }
+}
+
+@media (min-width:992px) {
+    .container img {
+        max-width: 300px;
+       
+    }
+
+}
+
+@media (min-width:1200px) {
+    .container img {
+        max-width: 400px;
+       
+    }
+}

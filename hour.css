@@ -1,0 +1,55 @@
+body{
+    overflow-x: hidden;
+}
+.container{
+    background-image: url('./images/016.png');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: 1%;
+    padding: 200px;
+    position: relative;
+    
+}
+body{
+    background-image: url('./images/polygon_colorful_shapes_pattern_4k_8k_hd_abstract-3840x2160.jpg');
+}
+
+.carte{
+    position: fixed;
+    
+}
+.icone .carte{
+    font-size:50px;
+    margin-left: 20px;
+}
+@media (max-width:767px) {
+    .container img{
+        width: 220px;
+        max-height: 100%;
+       
+    }
+}
+@media (min-width:768px) {
+    .container img {
+        max-width: 250px;
+        margin-left: 80px;
+        
+        
+    }
+}
+
+@media (min-width:992px) {
+    .container img {
+        max-width: 300px;
+         margin-left: 120px;
+        margin-right: 75px;
+    }
+
+}
+
+@media (min-width:1200px) {
+    .container img {
+        max-width: 400px;
+       
+    }
+}

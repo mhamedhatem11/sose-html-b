@@ -1,0 +1,9 @@
+
+.background{
+  background-image: url("./images/HD-wallpaper-braies-lake-boat-canoe.jpg");
+  min-height: 900px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
