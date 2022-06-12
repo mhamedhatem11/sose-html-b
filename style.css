@@ -31,6 +31,9 @@ body{
     align-items: center;
     justify-content: center;
 }
+.clases .img{
+    width: 50%;
+}
 .image{
     position: relative;
     margin: 30px;
